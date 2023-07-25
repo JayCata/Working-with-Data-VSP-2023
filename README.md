@@ -87,7 +87,7 @@ Lab: Working on project in groups. You should be coding up preliminary descripti
 
 ### Day 9 (July 31st)
 Lecture: More regression\
-Lab Assignment 5: Regression
+Lab: Working on Projects in groups. Should be refining descriptive statistics and figures and begin writing up some text in Jupyter Notebook. 
 
 ### Day 10 (August 1st)
 Lecture: Introduction to classification\
@@ -95,7 +95,7 @@ Lab: Working on project in groups. You should be integrating figures, descriptiv
 
 ### Day 11 (August 2nd)
 Lecture: More classification \
-Lab Assignment 6: Classification
+Lab Assignment 5: Regression & Classification
 
 ### Day 12 (August 3rd)
 Lecture: Neural networks \
