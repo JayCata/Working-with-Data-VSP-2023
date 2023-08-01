@@ -87,22 +87,24 @@ Lab: Working on project in groups. You should be coding up preliminary descripti
 
 ### Day 9 (July 31st)
 Lecture: More regression\
-Lab: Working on Projects in groups. Should be refining descriptive statistics and figures and begin writing up some text in Jupyter Notebook. 
+Lab Assignment 5: Regression
+ 
 
 ### Day 10 (August 1st)
-Lecture: Introduction to classification\
-Lab: Working on project in groups. You should be integrating figures, descriptive statistics, and writing into Jupyter Notebook. You should also start thinking of which classification and/or regression models you will run.
+Lecture: Introduction to Classification\
+Lab: Working on Projects in groups. Should be refining descriptive statistics and figures and begin writing up some text in Jupyter Notebook.
+
 
 ### Day 11 (August 2nd)
-Lecture: More classification \
-Lab Assignment 5: Regression & Classification
+Lecture: Introduction to Neural Networks & PyTorch\
+Lab: Working on project in groups. You should be integrating figures, descriptive statistics, and writing into Jupyter Notebook. You should also start thinking of which classification and/or regression models you will run.
 
 ### Day 12 (August 3rd)
-Lecture: Neural networks \
+Lecture: Neural networks & PyTorch continued \
 Lab: Working on project in groups. You should be running your analyses and thinking about how to frame them. 
 
 ### Day 13 (August 4th)
-Lecture: Finish up lectures and end of progam evaluation survey\
+Lecture: Final notes and end of progam evaluation survey\
 Lab: Working on project in groups. You should be finalizing your analyses, polishing the project, running details by me, preparing for the presentation, and doing anything else that needs to be done. At this point, you want to be almost finished, so you can enjoy your weekend trip to Tofino. 
 
 ### Day 14 (August 8th)
