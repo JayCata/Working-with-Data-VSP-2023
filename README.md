@@ -111,18 +111,4 @@ Lab: Working on project in groups. You should be finalizing your analyses, polis
 When you get to class, you will received an aditional hour of time to work on your project or presentation. At the end of that time, your project must be submitted to me on Canvas. Then, each group will present their project for the remaining two hours.
 
 
-## Course Policies
-There are some very basic course policies outlined below.
-
-### Be Respectful
-This one is easy. Treat your fellow classmates with respect. Treat the VSP organizers and staff with respect. Treat your instructors with respect. The same respect will be afforded to you. 
-
-### Copying Code
-Looking at code that other people have written is a great way to learn to code. Copying small snippets of code is a generally accepted practice. For the purpose of this course, you might want to copy small snippets of code from the internet or the lecture notes. This is ok, but please type out every word to copy it. Do not use the copy-paste functionality of your computer. This seems strange but it will get you used to writing code, even if it is not your own. I cannot and will not enforce this policy, but you should enforce it on yourself. 
-
-### chatGPT and other Large Language Models (LLMs)
-Despite being somewhat overhyped, LLMs are a powerful tool that can help programmers produce code more quickly. That being said, **do not use LLMs for this course at all**. If you use LLMs for a lab assignment, your maximum grade for that assignment will be capped at 50%. If you use LLMs for your project, your maximum grade for the project will be capped at 75%. You are here to learn and having an LLM code for you will not help you learn. 
-
-
-
 
