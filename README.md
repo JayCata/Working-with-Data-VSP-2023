@@ -33,7 +33,7 @@ With a working knowledge of these tools, students will be ready to learn about a
 - Logistic Regression
 - Classification Trees
 
-If time allows, we may also provide an introduction to neural networks.
+Finally, the class will conclude with a lecture on Neural Networks.
 
 ## Course Structure
 This course consists of 13 3-hour classes. Roughly the first half of each class will be dedicated to lecture. After lecture, there will be a short break if time allows. The remainder of the class period will be spent working on a lab assignment or the final project. Students will generally finish the lab assignments in class. If lab assignments are not finished in class, students must submit them **within 48 hours of the end of class**. 
