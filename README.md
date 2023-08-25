@@ -105,7 +105,7 @@ Lab: Working on project in groups. You should be running your analyses and think
 
 ### Day 13 (August 4th)
 Lecture: Final notes and end of progam evaluation survey\
-Lab: Working on project in groups. You should be finalizing your analyses, polishing the project, running details by me, preparing for the presentation, and doing anything else that needs to be done. At this point, you want to be almost finished, so you can enjoy your weekend trip to Tofino. 
+Lab: Working on project in groups. You should be finalizing your analyses, polishing the project, running details by me, preparing for the presentation, and doing anything else that needs to be done. At this point, you want to be almost finished. 
 
 ### Day 14 (August 8th)
 When you get to class, you will received an aditional hour of time to work on your project or presentation. At the end of that time, your project must be submitted to me on Canvas. Then, each group will present their project for the remaining two hours.
