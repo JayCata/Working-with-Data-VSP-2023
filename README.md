@@ -1,4 +1,4 @@
-# Working with Data Syllabus 
+# Working with Big Data Syllabus 
 **Instructor:** Josh Catalano (jcatal@student.ubc.ca) \
 **Office Hours:** TBD \
 **Class Hours:** 9:00 AM - 12:00 PM \
